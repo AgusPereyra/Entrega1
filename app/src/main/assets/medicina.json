@@ -1,0 +1,27 @@
+[
+  {
+    "question": "¿Cuál es el nombre del órgano humano más grande y pesado?",
+    "options": ["El corazón", "El hígado", "El cerebro", "La piel"],
+    "correctAnswerIndex": 3
+  },
+  {
+    "question": "¿Qué parte del cuerpo humano se encarga de bombear sangre a través del sistema circulatorio?",
+    "options": ["El hígado", "El cerebro", "Los pulmones", "El corazón"],
+    "correctAnswerIndex": 3
+  },
+  {
+    "question": "¿Qué sistema del cuerpo humano se encarga de defenderlo contra patógenos y enfermedades?",
+    "options": ["El sistema nervioso", "El sistema circulatorio", "El sistema digestivo", "El sistema inmunológico"],
+    "correctAnswerIndex": 3
+  },
+  {
+    "question": "¿Cuál es la función principal del sistema respiratorio?",
+    "options": ["Producir hormonas", "Regular la temperatura corporal", "Facilitar el intercambio de gases (oxígeno y dióxido de carbono) entre el cuerpo y el aire", "Digiere los alimentos"],
+    "correctAnswerIndex": 2
+  },
+  {
+    "question": "¿Qué tipo de célula es conocida como la 'unidad básica de la vida'?",
+    "options": ["Célula sanguínea", "Célula nerviosa", "Célula epitelial", "La célula"],
+    "correctAnswerIndex": 3
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "question": "¿Cuál es el río más largo del mundo?",
+    "options": ["Nilo", "Amazonas", "Yangtsé", "Misisipi"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "question": "¿Cuál es el país más grande por área terrestre?",
+    "options": ["China", "Estados Unidos", "Canadá", "Rusia"],
+    "correctAnswerIndex": 3
+  },
+  {
+    "question": "¿Qué continente es conocido como 'El Viejo Continente'?",
+    "options": ["América", "Asia", "África", "Europa"],
+    "correctAnswerIndex": 3
+  },
+  {
+    "question": "¿Cuál es la montaña más alta del mundo?",
+    "options": ["Monte Everest", "Monte Kilimanjaro", "Monte K2", "Monte Aconcagua"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "question": "¿Cuál es el país más pequeño del mundo en términos de área terrestre?",
+    "options": ["Mónaco", "San Marino", "El Vaticano", "Nauru"],
+    "correctAnswerIndex": 2
+  }
+]

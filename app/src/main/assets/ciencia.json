@@ -1,0 +1,52 @@
+[{
+      "question": "¿Cuál es el proceso mediante el cual las plantas convierten la luz solar en energía?",
+      "options": [
+        "Fotomorfogénesis",
+        "Fotosíntesis",
+        "Transpiración",
+        "Respiración celular"
+      ],
+      "correctAnswerIndex": 1
+    },
+    {
+      "question": "¿Cuál es el elemento químico más abundante en la corteza terrestre?",
+      "options": [
+        "Hierro",
+        "Aluminio",
+        "Silicio",
+        "Oxígeno"
+      ],
+      "correctAnswerIndex": 3
+    },
+    {
+      "question": "¿Qué tipo de célula es responsable de transportar oxígeno en el torrente sanguíneo?",
+      "options": [
+        "Glóbulo blanco",
+        "Plaqueta",
+        "Glóbulo rojo",
+        "Célula madre"
+      ],
+      "correctAnswerIndex": 2
+    },
+    {
+      "question": "¿Cuál es la unidad básica de la herencia genética?",
+      "options": [
+        "Alelo",
+        "Cromosoma",
+        "Genoma",
+        "Gen"
+      ],
+      "correctAnswerIndex": 3
+    },
+    {
+      "question": "¿Qué fenómeno natural es medido en la escala de Richter?",
+      "options": [
+        "Tsunami",
+        "Huracán",
+        "Terremotos",
+        "Tornado"
+      ],
+      "correctAnswerIndex": 2
+    }
+  ]
+

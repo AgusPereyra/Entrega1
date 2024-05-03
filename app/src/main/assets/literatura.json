@@ -1,0 +1,27 @@
+[
+  {
+    "question": "¿Quién escribió la novela 'Cien años de soledad'?",
+    "options": ["Julio Cortázar", "Gabriel García Márquez", "Pablo Neruda", "Isabel Allende"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "question": "¿Cuál es el título de la famosa obra de William Golding sobre un grupo de niños varados en una isla desierta?",
+    "options": ["El señor de las moscas", "El guardián entre el centeno", "1984", "Matar a un ruiseñor"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "question": "¿Quién es el autor de 'La Odisea', uno de los poemas épicos más antiguos de la literatura occidental?",
+    "options": ["Virgilio", "Hesíodo", "Homero", "Esquilo"],
+    "correctAnswerIndex": 2
+  },
+  {
+    "question": "¿Cuál es el nombre del detective creado por Arthur Conan Doyle, conocido por su astucia y método deductivo?",
+    "options": ["Hércules Poirot", "Nancy Drew", "Philip Marlowe", "Sherlock Holmes"],
+    "correctAnswerIndex": 3
+  },
+  {
+    "question": "¿Qué escritor es famoso por su serie de novelas 'Crónicas vampíricas'?",
+    "options": ["Stephen King", "Anne Rice", "Bram Stoker", "Charlaine Harris"],
+    "correctAnswerIndex": 1
+  }
+]

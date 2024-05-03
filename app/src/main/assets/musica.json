@@ -1,0 +1,27 @@
+[
+  {
+    "question": "¿Quién es el legendario guitarrista de rock conocido como 'Dios de la Guitarra'?",
+    "options": ["Jimmy Page", "Eric Clapton", "Jimi Hendrix", "Slash"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "question": "¿Cuál es el álbum más vendido de todos los tiempos?",
+    "options": ["Back in Black de AC/DC", "The Dark Side of the Moon de Pink Floyd", "Thriller de Michael Jackson", "Abbey Road de The Beatles"],
+    "correctAnswerIndex": 2
+  },
+  {
+    "question": "¿Quién es la voz detrás de éxitos como 'Like a Virgin' y 'Material Girl'?",
+    "options": ["Whitney Houston", "Madonna", "Celine Dion", "Britney Spears"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "question": "¿Qué banda de rock británica lanzó el álbum 'The Dark Side of the Moon' en 1973?",
+    "options": ["The Rolling Stones", "Led Zeppelin", "Queen", "Pink Floyd"],
+    "correctAnswerIndex": 3
+  },
+  {
+    "question": "¿Qué género musical surgió en Jamaica a finales de la década de 1960 y se caracteriza por un ritmo distintivo llamado 'offbeat'?",
+    "options": ["Ska", "Reggae", "Dancehall", "Calypso"],
+    "correctAnswerIndex": 1
+  }
+]

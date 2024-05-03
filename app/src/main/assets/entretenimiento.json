@@ -1,0 +1,27 @@
+[
+  {
+    "question": "¿Cuál es el nombre del actor que interpreta a Iron Man en el Universo Cinematográfico de Marvel?",
+    "options": ["Chris Hemsworth", "Chris Evans", "Robert Downey Jr.", "Mark Ruffalo"],
+    "correctAnswerIndex": 2
+  },
+  {
+    "question": "¿Qué famosa franquicia cinematográfica presenta a Luke Skywalker y Darth Vader?",
+    "options": ["Star Trek", "Starship Troopers", "Star Wars", "Guardianes de la Galaxia"],
+    "correctAnswerIndex": 2
+  },
+  {
+    "question": "¿Cuál es la novela más vendida de todos los tiempos?",
+    "options": ["Cien años de soledad", "El Señor de los Anillos", "Don Quijote de la Mancha", "Harry Potter y la piedra filosofal"],
+    "correctAnswerIndex": 2
+  },
+  {
+    "question": "¿Quién escribió la famosa serie de libros 'Harry Potter'?",
+    "options": ["J.R.R. Tolkien", "Stephen King", "George R.R. Martin", "J.K. Rowling"],
+    "correctAnswerIndex": 3
+  },
+  {
+    "question": "¿Qué artista pintó la Mona Lisa?",
+    "options": ["Pablo Picasso", "Vincent van Gogh", "Leonardo da Vinci", "Michelangelo"],
+    "correctAnswerIndex": 2
+  }
+]

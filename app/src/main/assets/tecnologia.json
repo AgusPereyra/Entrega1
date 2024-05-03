@@ -1,0 +1,27 @@
+[
+  {
+    "question": "¿Cuál fue la primera computadora electrónica de propósito general?",
+    "options": ["Colossus", "ENIAC", "UNIVAC", "EDSAC"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "question": "¿Quién es considerado el fundador de Apple Inc.?",
+    "options": ["Steve Wozniak", "Bill Gates", "Steve Jobs", "Mark Zuckerberg"],
+    "correctAnswerIndex": 2
+  },
+  {
+    "question": "¿Qué siglas representan al protocolo de transferencia de hipertexto utilizado para acceder a páginas web?",
+    "options": ["HTML", "FTP", "HTTP", "URL"],
+    "correctAnswerIndex": 2
+  },
+  {
+    "question": "¿Qué empresa desarrolló el sistema operativo Android?",
+    "options": ["Samsung", "Apple", "Google", "Microsoft"],
+    "correctAnswerIndex": 2
+  },
+  {
+    "question": "¿Cuál es el nombre del primer satélite artificial lanzado al espacio por la Unión Soviética en 1957?",
+    "options": ["Vostok 1", "Explorer 1", "Sputnik 1", "Apollo 11"],
+    "correctAnswerIndex": 2
+  }
+]

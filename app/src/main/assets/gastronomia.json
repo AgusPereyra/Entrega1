@@ -1,0 +1,27 @@
+[
+  {
+    "question": "¿Cuál es el ingrediente principal del plato italiano 'carbonara'?",
+    "options": ["Tomate y albahaca", "Queso y tomate", "Huevos y panceta (o guanciale)", "Ajo y aceite de oliva"],
+    "correctAnswerIndex": 2
+  },
+  {
+    "question": "¿Qué país es famoso por su producción y consumo de sushi?",
+    "options": ["Tailandia", "China", "Japón", "Corea del Sur"],
+    "correctAnswerIndex": 2
+  },
+  {
+    "question": "¿Cuál es el nombre del postre de chocolate originario de Austria que se sirve con crema batida?",
+    "options": ["Tiramisú", "Mousse de chocolate", "Sachertorte", "Crème brûlée"],
+    "correctAnswerIndex": 2
+  },
+  {
+    "question": "¿Qué bebida alcohólica es conocida como 'la bebida de los dioses' y se elabora a partir de la fermentación del agave?",
+    "options": ["Mezcal", "Tequila", "Vodka", "Whisky"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "question": "¿Qué comida mexicana consiste en tortillas de maíz rellenas de carne y luego enrolladas?",
+    "options": ["Burrito", "Tacos", "Enchiladas", "Quesadilla"],
+    "correctAnswerIndex": 1
+  }
+]

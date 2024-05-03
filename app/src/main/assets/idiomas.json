@@ -1,0 +1,27 @@
+[
+  {
+    "question": "¿Cuál es el idioma oficial de Brasil?",
+    "options": ["Español", "Portugués", "Inglés", "Francés"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "question": "¿En qué país se habla el idioma neerlandés?",
+    "options": ["Alemania", "Países Bajos (Holanda) y Bélgica", "Francia", "Dinamarca"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "question": "¿Qué idioma se habla en Rusia?",
+    "options": ["Ruso", "Alemán", "Inglés", "Chino"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "question": "¿Cuál es el idioma oficial de Japón?",
+    "options": ["Coreano", "Mandarín", "Vietnamita", "Japonés"],
+    "correctAnswerIndex": 3
+  },
+  {
+    "question": "¿En qué país se habla el idioma swahili?",
+    "options": ["Egipto", "Tanzania, Kenia y partes de otros países africanos", "Sudáfrica", "Etiopía"],
+    "correctAnswerIndex": 1
+  }
+]

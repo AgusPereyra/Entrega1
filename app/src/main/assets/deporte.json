@@ -1,0 +1,27 @@
+[
+  {
+    "question": "¿Cuál es el deporte más popular en Brasil?",
+    "options": ["Baloncesto", "Voleibol", "Fútbol", "Tenis"],
+    "correctAnswerIndex": 2
+  },
+  {
+    "question": "¿Cuántos jugadores hay en un equipo de baloncesto durante un juego?",
+    "options": ["Cuatro", "Seis", "Cinco", "Siete"],
+    "correctAnswerIndex": 2
+  },
+  {
+    "question": "¿Qué equipo ha ganado más títulos de la NBA en la historia?",
+    "options": ["Chicago Bulls", "Los Angeles Lakers", "Boston Celtics", "Golden State Warriors"],
+    "correctAnswerIndex": 2
+  },
+  {
+    "question": "¿En qué país se originó el deporte del rugby?",
+    "options": ["Nueva Zelanda", "Australia", "Sudáfrica", "Reino Unido"],
+    "correctAnswerIndex": 3
+  },
+  {
+    "question": "¿Cuál es el único deporte que se ha jugado en la Luna?",
+    "options": ["Fútbol", "Tenis", "Golf", "Baloncesto"],
+    "correctAnswerIndex": 2
+  }
+]

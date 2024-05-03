@@ -1,0 +1,27 @@
+[
+  {
+    "question": "¿Qué líder político fue conocido como 'El Canciller de Hierro'?",
+    "options": ["Bismarck", "Mussolini", "Stalin", "Churchill"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "question": "¿Cuál fue la capital del Imperio Romano de Occidente?",
+    "options": ["Constantinopla", "Roma", "Atenas", "Alejandría"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "question": "¿Qué evento histórico marcó el fin de la Segunda Guerra Mundial en Europa?",
+    "options": ["El bombardeo de Pearl Harbor", "El desembarco de Normandía", "La rendición de Alemania", "La bomba atómica en Hiroshima"],
+    "correctAnswerIndex": 2
+  },
+  {
+    "question": "¿Cuál fue la primera civilización conocida de la historia?",
+    "options": ["Egipcia", "Babilónica", "Sumeria", "China"],
+    "correctAnswerIndex": 2
+  },
+  {
+    "question": "¿Qué país construyó y utilizó el primer sistema ferroviario a gran escala?",
+    "options": ["Estados Unidos", "Alemania", "Francia", "Reino Unido"],
+    "correctAnswerIndex": 3
+  }
+]

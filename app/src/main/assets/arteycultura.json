@@ -1,0 +1,27 @@
+[
+  {
+    "question": "¿Cuál es el nombre del planeta natal de Superman en los cómics de DC Comics?",
+    "options": ["Krypton", "Alderaan", "Tatooine", "Asgard"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "question": "¿Qué famosa serie de libros y películas sigue las aventuras del joven mago Harry Potter?",
+    "options": ["El Señor de los Anillos", "Crepúsculo", "Harry Potter", "Cazadores de Sombras"],
+    "correctAnswerIndex": 2
+  },
+  {
+    "question": "¿Quién es el autor de la serie de libros 'Canción de Hielo y Fuego', que inspiró la serie de televisión 'Juego de Tronos'?",
+    "options": ["J.R.R. Tolkien", "George R.R. Martin", "J.K. Rowling", "Stephen King"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "question": "¿Cuál es el nombre del famoso robot que aparece en la saga de películas 'Star Wars'?",
+    "options": ["C-3PO", "BB-8", "R2-D2", "Wall-E"],
+    "correctAnswerIndex": 2
+  },
+  {
+    "question": "¿Qué famosa serie de televisión sigue las hazañas del Doctor, un viajero en el tiempo de la raza alienígena conocida como los Señores del Tiempo?",
+    "options": ["Stargate SG-1", "Battlestar Galactica", "Doctor Who", "The Expanse"],
+    "correctAnswerIndex": 2
+  }
+]

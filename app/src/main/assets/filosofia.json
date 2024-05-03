@@ -1,0 +1,27 @@
+[
+  {
+    "question": "¿Quién fue el filósofo griego conocido como el 'padre de la filosofía occidental'?",
+    "options": ["Platón", "Aristóteles", "Sócrates", "Heráclito"],
+    "correctAnswerIndex": 2
+  },
+  {
+    "question": "¿Cuál es el nombre del filósofo alemán cuyas ideas influyeron profundamente en el existencialismo y el marxismo?",
+    "options": ["Friedrich Nietzsche", "Immanuel Kant", "Georg Wilhelm Friedrich Hegel", "Karl Marx"],
+    "correctAnswerIndex": 3
+  },
+  {
+    "question": "¿Quién fue el filósofo francés que propuso la teoría del contrato social en su obra 'El contrato social'?",
+    "options": ["Montesquieu", "Voltaire", "Jean-Jacques Rousseau", "Denis Diderot"],
+    "correctAnswerIndex": 2
+  },
+  {
+    "question": "¿Qué filósofo alemán es conocido por su teoría del 'Übermensch' o 'superhombre'?",
+    "options": ["Arthur Schopenhauer", "Karl Marx", "Friedrich Nietzsche", "Martin Heidegger"],
+    "correctAnswerIndex": 2
+  },
+  {
+    "question": "¿Cuál es el nombre del filósofo chino cuyas enseñanzas se recopilaron en el libro 'Analectas'?",
+    "options": ["Lao-Tsé", "Confucio", "Mencio", "Sun Tzu"],
+    "correctAnswerIndex": 1
+  }
+]
