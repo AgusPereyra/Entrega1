@@ -46,19 +46,19 @@ class GameActivity : AppCompatActivity() {
         textCategory = findViewById(R.id.textCategory)
         textCategory.text = category?.uppercase()
 
-        questionView = findViewById(R.id.question) // No es necesario usar <textView> pq ya declare questionView como tipo textView
+        questionView = findViewById(R.id.question)
         textScore = findViewById(R.id.textScore)
         val button1 = findViewById<Button>(R.id.button1)
         val button2 = findViewById<Button>(R.id.button2)
         val button3 = findViewById<Button>(R.id.button3)
         val button4 = findViewById<Button>(R.id.button4)
-        optionsArray = arrayOf(button1, button2, button3, button4) // array de botones
+        optionsArray = arrayOf(button1, button2, button3, button4)
         btnComodin = findViewById<Button>(R.id.btnComodin)
 
         setNextQuestion()
 
         for (i in optionsArray.indices){
-            optionsArray[i].setOnClickListener{ answer(i, optionsArray[i])} // setea todos los 'escuchadores', es quedan los 4 esperando el click
+            optionsArray[i].setOnClickListener{ answer(i, optionsArray[i])}
         }
         btnComodin.setOnClickListener { comodin().also { btnComodin.text = "X"
                                                         btnComodin.isClickable = false } }
@@ -112,22 +112,19 @@ class GameActivity : AppCompatActivity() {
         val correct = questionList[currentQuestion].getCorrectAnswerIndex()
         if(correct == ans){
             correctQuestions++
-            b.setBackgroundColor(getColor(R.color.green))//verde
+            b.setBackgroundColor(getColor(R.color.green))
         }else{
-            b.setBackgroundColor(getColor(R.color.red)) //rojo
+            b.setBackgroundColor(getColor(R.color.red))
             optionsArray[correct].setBackgroundColor(getColor(R.color.gray))
         }
-        Timer().schedule(2000) { // mientras ejecuta el delay ,va  ejecutando lo q esta dentro {reinicia los colores y setea los textos}
+        Timer().schedule(2000) {
 
-            runOnUiThread{ setNextQuestion()} // El bloque de codigo dentro del timer no pertenecia al hilo principal de la activity, entonces no se podia modificar las views
-                                              // Por eso agregamos el 'runOnUiThread'
-
-        }                                       // termina el delay y muestra los botones, la pregunta y los colores reiniciados
+            runOnUiThread{ setNextQuestion()}
+        }
         //Thread.sleep(1500)
     }
 
     private fun comodin(){
-        //falta logica como descontar pregunta del promedio
         this.comodin = 1
         this.setNextQuestion()
     }
